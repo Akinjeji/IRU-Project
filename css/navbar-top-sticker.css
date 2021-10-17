@@ -1,0 +1,127 @@
+/* Show it is fixed to the top */
+body {
+        min-height: 150rem;
+        padding-top: 3.0rem;
+        padding-left: 1.3rem;
+        Padding-right: 1.3rem;
+
+        background-color: #FFFFFF;
+
+      }
+
+ .container-fluid-2 {
+                    display: flex;
+                    flex-direction:row;
+                    justify-content:space-between;
+                    margin-left: 0px;
+                    margin-right: 0px;
+                    margin-bottom: 1rem;
+                    background-color: #FFFFFF;
+
+
+           }
+
+
+
+
+.navbar{
+          margin-top: 0.625rem;
+          margin-bottom: 0.625rem;
+
+
+       }
+
+ .image-container{
+                    height: 1.1875rem;
+                    width: 30%;
+                    margin: 0px;
+                    background-size: cover;
+
+                  }
+
+  .image-container2{
+                         height: 22.1875rem;
+                         width: 100%;
+                         margin: 0px;
+                         background-size: cover;
+
+
+                       }
+
+     .navbar-nav li a  {
+
+                            color: #ec3338;
+
+                        }
+
+
+
+
+.dropdown:hover .dropdown-menu{
+                                  display: block;
+                                  margin-top: 0;
+                                  background-color: #FFFFFF;
+
+
+                              }
+
+    .container-three{
+
+
+                   height: 1500px;
+                   width: 100%;
+                   margin-top: 5px;
+                   padding-top: 40px;
+                   padding-left: 5px;
+                   padding-right: 5px;
+                   background-size: cover;
+
+               }
+
+    .innerCon1{
+                 display: flex;
+                 flex-direction:row;
+                 justify-content: space-around;
+                 margin-bottom: 50px;
+
+              }
+
+    .innerCon2{
+
+                   height: 1000px;
+                   width: 100%;
+                   margin-left: 20px;
+                   margin-right: 0px;
+
+              }
+
+          .box{
+                  width: 200px;
+                  background-color: #002ec0;
+                  padding: 10px;
+                  color: #FFFFFF;
+
+
+               }
+
+          .box h2{
+
+                    font-weight: bold;
+                    text-align: center;
+
+
+                  }
+
+           .box p {
+
+                      font-weight: bold;
+                      text-align: left;
+
+                  }
+
+    .innerInner{
+
+                   display: flex;
+                   flex-direction:column;
+
+              }

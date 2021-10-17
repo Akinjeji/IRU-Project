@@ -1,0 +1,288 @@
+<!--<div class="row">
+
+      <div class="col-lg-auto" >
+
+          <img src="Images/IruCdrLogo.png "/>
+
+      </div>
+</div>
+
+
+
+<div class="row">
+
+      <div class="col-lg-auto">
+
+           <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
+                <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2zm13 2.383-4.758 2.855L15 11.114v-5.73zm-.034 6.878L9.271 8.82 8 9.583 6.728 8.82l-5.694 3.44A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.739zM1 11.114l4.758-2.876L1 5.383v5.73z"/>
+           </svg>
+
+      </div>
+
+      <div class="col-lg-auto">
+
+            <div class="row row-cols-lg-1">
+                 <div class="col">Enquiries?</div>
+                 <div class="col">info@iruvictoriaislandlcda.lg.gov.ng</div>
+            </div>
+
+       </div>
+
+  </div>
+
+  <div class="row ">
+
+       <div class="col-lg-auto">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-clock" viewBox="0 0 16 16">
+                 <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/>
+                 <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z"/>
+            </svg>
+       </div>
+
+       <div class="col-lg-auto">
+
+            <div class="row row-cols-lg-1">
+                 <div class="col">Office Hours</div>
+                 <div class="col">Mon-Fri 8am-6pm</div>
+            </div>
+
+        </div>
+   </div>
+
+   <div class="row ">
+
+            <div class="col-lg-auto">
+
+                  <img src="Images/s.jpeg "/>
+
+            </div>
+
+   </div> -->
+
+
+
+   <div class ="loboImage">
+
+       <img src="Images/IruCdrLogo.png "/>
+
+   </div>
+
+   <div class="con1">
+   <div class="row">
+
+         <div class="col-lg-auto">
+
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
+                   <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2zm13 2.383-4.758 2.855L15 11.114v-5.73zm-.034 6.878L9.271 8.82 8 9.583 6.728 8.82l-5.694 3.44A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.739zM1 11.114l4.758-2.876L1 5.383v5.73z"/>
+              </svg>
+
+         </div>
+
+         <div class="col-lg-auto">
+
+               <div class="row row-cols-lg-1">
+                    <div class="col">Enquiries?</div>
+                    <div class="col">info@iruvictoriaislandlcda.lg.gov.ng</div>
+               </div>
+
+          </div>
+
+     </div>
+   </div>
+
+   <div class="con2">
+
+     <div class="row">
+
+          <div class="col-lg-auto">
+               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-clock" viewBox="0 0 16 16">
+                    <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/>
+                    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0z"/>
+               </svg>
+          </div>
+
+          <div class="col-lg-auto">
+
+               <div class="row row-cols-lg-1">
+                    <div class="col">Office Hours</div>
+                    <div class="col">Mon-Fri 8am-6pm</div>
+               </div>
+
+           </div>
+      </div>
+    </div>
+      <div class ="labelImage">
+
+          <img src="Images/s.jpeg "/>
+
+      </div>
+
+
+
+color: #536F16;
+
+background-color: #ffe700;
+
+background-color: #536F16 !important;
+
+
+
+.dropdown:hover .dropdown-menu{
+                                  display: block;
+                                  margin-top: 0;
+                                  background-color: #536F16;
+
+
+
+                                  <nav class="navbar  sticky-top navbar-expand-sm navbar-expand-md navbar-expand-lg" "navbar-light" style="background-color: #ffe700;">
+
+
+                                  .navbar-nav li a {
+
+                                                     color: #ec3338;
+
+                                                  }
+
+
+                            .navbar-nav li a {
+
+                                                    color: #87d2f9;
+
+                                                }
+
+                                                ul.nav a:hover{
+
+
+
+                                                               }
+
+
+    <!--<svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
+        preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>-->
+
+
+
+        <!--<div class="row" data-masonry='{"percentPosition": true }'>
+
+             <div class="col-sm-6 col-lg-4">
+                   <div class="card bg-primary text-white text-left p-3">
+                        <figure class="mb-0">
+
+                            <h2> Our Team </h2>
+
+                            <blockquote class="blockquote">
+                                 <p> Our management team comprises seasoned professional and public administrators working to serve you better.</p>
+                            </blockquote>
+
+                         </figure>
+
+                     </div>
+                     <!--<div class="col-sm-6 col-lg-4 mb-4">
+                       <div class="card">
+                         <svg class="bd-placeholder-img card-img-top" width="60%" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+
+                         <div class="card-body">
+                           <h5 class="card-title">Card title that wraps to a new line</h5>
+                           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                         </div>
+                       </div>
+                    </div> -->
+
+
+
+                    <!--<div class="col-sm-6 col-lg-4 mb-4">
+                      <div class="card p-3">
+                        <figure class="p-3 mb-0">
+                          <blockquote class="blockquote">
+                            <p>A well-known quote, contained in a blockquote element.</p>
+                          </blockquote>
+                          <figcaption class="blockquote-footer mb-0 text-muted">
+                            Someone famous in <cite title="Source Title">Source Title</cite>
+                          </figcaption>
+                        </figure>
+                      </div>
+                    </div>-->
+                    <!--<div class="col-sm-6 col-lg-4 mb-4">
+                      <div class="card">
+                        <svg class="bd-placeholder-img card-img-top" width="100%" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+
+                        <div class="card-body">
+                          <h5 class="card-title">Card title</h5>
+                          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div>
+                      </div>
+                    </div>-->
+                    <!--<div class="col-sm-6 col-lg-4 mb-4">
+                      <div class="card bg-primary text-white text-center p-3">
+                        <figure class="mb-0">
+                          <blockquote class="blockquote">
+                            <p>A well-known quote, contained in a blockquote element.</p>
+                          </blockquote>
+                          <figcaption class="blockquote-footer mb-0 text-white">
+                            Someone famous in <cite title="Source Title">Source Title</cite>
+                          </figcaption>
+                        </figure>
+                      </div>
+                    </div> -->
+                    <!--<div class="col-sm-6 col-lg-4 mb-4">
+                      <div class="card text-center">
+                        <div class="card-body">
+                          <h5 class="card-title">Card title</h5>
+                          <p class="card-text">This card has a regular title and short paragraph of text below it.</p>
+                          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div>
+                      </div>
+                    </div> -->
+                    <!--<div class="col-sm-6 col-lg-4 mb-4">
+                      <div class="card">
+                        <svg class="bd-placeholder-img card-img" width="100%" height="260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Card image" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Card image</text></svg>
+
+                      </div>
+                    </div> -->
+                    <!--<div class="col-sm-6 col-lg-4 mb-4">
+                      <div class="card p-3 text-end">
+                        <figure class="mb-0">
+                          <blockquote class="blockquote">
+                            <p>A well-known quote, contained in a blockquote element.</p>
+                          </blockquote>
+                          <figcaption class="blockquote-footer mb-0 text-muted">
+                            Someone famous idisplay: flex;
+                       flex-direction:row;n <cite title="Source Title">Source Title</cite>
+                          </figcaption>
+                        </figure>
+                      </div>
+                    </div> -->
+                    <!--<div class="col-sm-6 col-lg-4 mb-4">
+                      <div class="card">
+                        <div class="card-body">
+                          <h5 class="card-title">Card title</h5>
+                          <p class="card-text">This is another card with title and supporting text below. This card has some additional content to make it slightly taller overall.</p>
+                          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div>
+                      </div>
+                    </div>-->
+                    <!--<div class="col-sm-6 col-lg-4 mb-4">
+                      <div class="card">
+                        <svg class="bd-placeholder-img card-img-top" width="100%" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+
+                        <div class="card-body">
+                          <h5 class="card-title">Card title</h5>
+                          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div>
+                      </div>
+                    </div>-->
+                  <!--  <div class="col-sm-6 col-lg-4 mb-4">
+                      <div class="card">
+                        <svg class="bd-placeholder-img card-img-top" width="100%" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+
+                        <div class="card-body">
+                          <h5 class="card-title">Card title</h5>
+                          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div>
+                      </div>-->
+                    </div>
+                  </div>
+                </div>
